@@ -1,4 +1,3 @@
-
 import React from 'react';
 import CityItem from './CityItem.js';
 

@@ -1,0 +1,17 @@
+.book {
+  background-color: white;
+  color: black;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 5px;
+  width: 200px;
+  height: 120px;
+  font-size: .8rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+p {
+  margin: 0;
+}
