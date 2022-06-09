@@ -1,4 +1,5 @@
 import React from 'react';
+import './ShowItem.css';
 
 export default function ShowItem({ title, genre, seasons, favorite_character }) {
   return (

@@ -1,0 +1,16 @@
+.show {
+  margin: 10px;
+  background-color: palegoldenrod;
+  padding: 15px;
+  color: black;
+  border-radius: 10px;
+  width: 220px;
+  height: 220px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+h3 {
+  margin-top: 0;
+}

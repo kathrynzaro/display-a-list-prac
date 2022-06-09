@@ -1,0 +1,31 @@
+.album {
+  display: flex;
+  flex-direction: column;
+  width: 210px;
+  align-items: center;
+  justify-content: space-between;
+  background-color: lightpink;
+  color: black;
+  margin: 10px;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.fav-songs-heading {
+  font-size: .9rem;
+  font-weight: 700;
+}
+
+.song-list {
+  font-size: .7rem;
+  width: 109px;
+}
+
+h3 {
+  margin: 0;
+}
+
+h4 {
+  margin: 15px 0;
+}
+
